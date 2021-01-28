@@ -36,8 +36,8 @@ curl https://my.jenkins.server.url/git/notifyCommit?url=https://my.git.server.ur
 ### 建立 Work Item: `BankTest`
 
 - Source Code Management: Git
-  . Repository URL: `https://my.git.server.url/git/BankTest.git`
-  . Credentials: ... ( 輸入帳密 )
+  - Repository URL: `https://my.git.server.url/git/BankTest.git`
+  - Credentials: ... ( 輸入帳密 )
 - Build Triggers: Poll SCM
   > No schedules so will only run due to SCM changes if triggered by a post-commit hook
 
