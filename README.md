@@ -7,11 +7,10 @@ https://github.com/zing115/MorganBlog
 
 ### STAR WARS JEDI: Fallen Order
 
-[blog/fun/game/STAR-WARS/JEDI/Fallen-Order/READ.ME](blog/fun/game/STAR-WARS/JEDI/Fallen-Order/READ.ME)
-
-[https://github.com/zing115/MorganBlog/blog/fun/game/STAR-WARS/JEDI/Fallen-Order/READ.ME](https://github.com/zing115/MorganBlog/blog/fun/game/STAR-WARS/JEDI/Fallen-Order/READ.ME)
+[https://github.com/zing115/MorganBlog/tree/main/blog/fun/game/STAR-WARS/JEDI/Fallen-Order](https://github.com/zing115/MorganBlog/tree/main/blog/fun/game/STAR-WARS/JEDI/Fallen-Order)
 <!---
-https://github.com/zing115/MorganBlog/blog/fun/game/STAR-WARS/JEDI/Fallen-Order/READ.ME
+https://github.com/zing115/MorganBlog/tree/main/blog/fun/game/STAR-WARS/JEDI/Fallen-Order
+https://github.com/zing115/MorganBlog/blog/fun/game/STAR-WARS/JEDI/Fallen-Order/README.md
 --->
 
 ## 210118
