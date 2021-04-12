@@ -91,7 +91,7 @@
 
 ![](img/star-wars-jedi-fallen-order-140.jpg)
 
-## 花也"好像"種滿了 ( 好像空缺一格? )
+## 花也種滿了
 
 <!--- ![](img/star-wars-jedi-fallen-order-141.jpg) --->
 
