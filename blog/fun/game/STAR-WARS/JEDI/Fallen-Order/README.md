@@ -91,10 +91,21 @@
 
 ![](img/star-wars-jedi-fallen-order-140.jpg)
 
-## 花也"好像"種滿了 ( 好像空缺一格? )
+## 花也種滿了
 
-![](img/star-wars-jedi-fallen-order-141.jpg)
+<!--- ![](img/star-wars-jedi-fallen-order-141.jpg) --->
+
+![](img/star-wars-jedi-fallen-order-145.jpg)
+
+![](img/star-wars-jedi-fallen-order-146.jpg)
 
 ## 中間上方的通風口有兩隻偷渡的小動物 ( 有時會跑到全像桌下 )
 
 ![](img/star-wars-jedi-fallen-order-142.jpg)
+
+![](img/star-wars-jedi-fallen-order-143.jpg)
+
+## 所有成員合照留念
+
+![](img/star-wars-jedi-fallen-order-144.jpg)
+
