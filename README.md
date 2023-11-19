@@ -2,11 +2,13 @@
 
 > zing115/MorganBlog
 https://github.com/zing115/MorganBlog
+https://zing115.github.io/MorganBlog
 
 ## 210313
 
 ### STAR WARS JEDI: Fallen Order
 
+[https://zing115.github.io/MorganBlog/tree/main/blog/fun/game/STAR-WARS/JEDI/Fallen-Order](https://zing115.github.io/MorganBlog/tree/main/blog/fun/game/STAR-WARS/JEDI/Fallen-Order)
 [https://github.com/zing115/MorganBlog/tree/main/blog/fun/game/STAR-WARS/JEDI/Fallen-Order](https://github.com/zing115/MorganBlog/tree/main/blog/fun/game/STAR-WARS/JEDI/Fallen-Order)
 <!---
 https://github.com/zing115/MorganBlog/tree/main/blog/fun/game/STAR-WARS/JEDI/Fallen-Order
