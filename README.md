@@ -7,7 +7,7 @@ https://github.com/zing115/MorganBlog
 
 ## fun-a
 
-https://zing115.github.io/MorganBlog/fun/a/
+https://zing115.github.io/MorganBlog/img/fun/a/
 
 ## 210313
 
