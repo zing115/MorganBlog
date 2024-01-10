@@ -5,6 +5,10 @@ https://zing115.github.io/MorganBlog/
 > zing115/MorganBlog
 https://github.com/zing115/MorganBlog
 
+## fun-a
+
+https://zing115.github.io/MorganBlog/fun/a/
+
 ## 210313
 
 ### STAR WARS JEDI: Fallen Order
